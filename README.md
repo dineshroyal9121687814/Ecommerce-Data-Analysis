@@ -29,27 +29,6 @@ This project analyzes 12 months of e-commerce transaction data to identify custo
 | **Statistical Analysis** | Hypothesis testing, regression analysis |
 | **Business Intelligence** | RFM Analysis, Customer Segmentation |
 
-## 📁 Project Structure
-
-```
-ecommerce-analysis/
-│
-├── README.md                          # Project documentation
-├── requirements.txt                   # Python dependencies
-├── ecommerce_analysis.py             # Main analysis script
-├── data/
-│   ├── customer_segmentation_analysis.csv
-│   └── ecommerce_transactions_analysis.csv
-├── visualizations/
-│   ├── revenue_trends.png
-│   ├── customer_segments.png
-│   └── dashboard_overview.png
-├── reports/
-│   ├── executive_summary.md
-│   └── technical_report.md
-└── notebooks/
-    └── exploratory_analysis.ipynb
-```
 
 ## 🚀 Quick Start
 
