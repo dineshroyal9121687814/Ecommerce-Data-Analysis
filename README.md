@@ -251,11 +251,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📚 References & Resources
 
-### Learning Resources
-- [RFM Analysis Guide](https://example.com/rfm-guide)
-- [Customer Segmentation Best Practices](https://example.com/segmentation)
-- [E-commerce Analytics Handbook](https://example.com/ecommerce-analytics)
-
 ### Technical Documentation
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html)
